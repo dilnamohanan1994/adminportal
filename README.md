@@ -1,6 +1,6 @@
 # Admin Portal - Laravel Application
 
-This is a Laravel-based Admin Portal for managing customers, invoices, and other dynamic modules with customizable fields.
+This is a Laravel-based Admin Portal for managing customers and invoices dynamic modules with customizable fields.
 
 ## Requirements
 
