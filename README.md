@@ -30,11 +30,13 @@ cp .env.example .env
 php artisan key:generate
 
 5. **Run Migrations**
+   
 php artisan migrate
 
-6. **Run Seeders**
+7. **Run Seeders**
+   
 php artisan db:seed
 
-7. **Run Laravel Server**
+9. **Run Laravel Server**
 
 php artisan serve
